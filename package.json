@@ -8,12 +8,12 @@
   ],
   "contributors": [],
   "dependencies": {
-    "@davidwu226/file": "^0.10.2",
+    "@davidwu226/file": "^0.11.0",
+    "@davidwu226/formdata": "^0.11.1",
     "FileList": "^0.10.2",
     "bufferjs": "^2.0.0",
     "file-error": "^0.10.2",
     "filereader": "^0.10.3",
-    "@davidwu226/formdata": "^0.11.0",
     "mime": "^1.2.11",
     "remedial": "^1.0.7"
   },
